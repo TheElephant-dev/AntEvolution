@@ -7,6 +7,9 @@ A Starcraft 2 Mod called "Ant Evolution"
   - Normal
   - Capture The Flag
 
+
+![Screenshot](https://github.com/TheElephant-dev/AntEvolution/blob/main/Images/QueenPick.png)
+
 - 6 Ant types.
   - Fire ant
   - Wood Ant
