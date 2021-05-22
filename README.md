@@ -65,7 +65,7 @@ A Starcraft 2 Mod called "Ant Evolution"
 
 ![Screenshot](https://github.com/TheElephant-dev/AntEvolution/blob/main/Images/Screenshots/UnitSkinsExample.png)
 ![Screenshot](https://github.com/TheElephant-dev/AntEvolution/blob/main/Images/Screenshots/CustomModelsExamle.png)
-- Unlocked Skins based on game progress\Achievement.
+- Unlocked Skins based on game progress\Achievement. (wish some custom made models, textures. to both improve proformence and visuals)
 
 
 - 7 Team Modes:
