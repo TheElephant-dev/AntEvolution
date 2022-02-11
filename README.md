@@ -2,6 +2,7 @@
 ![Screenshot](https://github.com/TheElephant-dev/AntEvolution/blob/main/Images/LoadingScreen.png)
 
 A Starcraft 2 Mod called "Ant Evolution"
+ with custom specially made models, textures, gui, units, and world generation!
 
 - 2 GameModes:
   - Normal
